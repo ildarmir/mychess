@@ -11,5 +11,7 @@
 // about supported directives.
 //
 //= require rails-ujs
+//= require jquery-3.3.1.min
 //= require turbolinks
+//= require chessboard-0.3.0.min
 //= require_tree .
